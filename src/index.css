@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to right,rgb(129, 93, 25),rgb(88, 81, 81));
+  height: 100vh;
+}
